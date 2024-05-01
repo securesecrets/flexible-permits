@@ -1,4 +1,5 @@
 pub mod permit;
+pub mod pretty;
 pub mod transaction;
 pub mod viewing_keys;
 
